@@ -1,6 +1,10 @@
 
 ![Little CMS](doc/logo-small.png)
 
+#CMAKE Support
+This is a downstream fork of [**Little CMS**](https://www.littlecms.com) with limited support for a CMake build system to cover the core components. The CMakeLists.txt was based on an [older version](https://github.com/mindw/little-CMS-cmake) that was updated from 2.6 to 2.17 for newer workflows.
+
+
 # About Little CMS
 [www.littlecms.com](https://www.littlecms.com)
 
